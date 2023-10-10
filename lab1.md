@@ -23,13 +23,31 @@
 - The command changed my working directory to lecture1.
 - No error
 
-##ls
+## ls
 - working directory:/home
 - It printed the files inside lecture1 directory
 - No error
 
-##cat
+## cat
 - working directory:/home
 - The output is: cat: lecture1: Is a directory. It printed the file and its purpose.
 - No error
+
+## File as an argument (Hello.java)
+![Image](chrome_CylTXHKLpo.png)
+## cd
+- working directory:/home/lecture1
+- here is the output: bash: cd: Hello.java: Not a directory. (It is telling us that the java file is not a directory)
+- It is an error because we are trying to access a file that cannot be used as a directory.
+
+## ls
+- working directory:/home/lecture1
+- It printed the file name (Hello.java).
+- No error
+
+## cat
+- working directory:/home/lecture1
+- It printed all content inside the file.
+- No error
+
 
