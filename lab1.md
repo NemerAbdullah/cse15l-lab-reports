@@ -1,5 +1,5 @@
 # Lab1
-No argument:
+## No argument:
 ![Image](chrome_9QwfKmkukh.png)
 ## cd
 - Working directory: /home
@@ -15,3 +15,21 @@ No argument:
 - Working directory:/home
 - No output. However. It stopped me from typing commands in the terminal and instead duplicated whatever I typed.
 - No error
+
+## Directory as an argument (lecture1)
+![Image](chrome_9QwfKmkukh.png)
+## cd
+- working directory:/home
+- The command changed my working directory to lecture1.
+- No error
+
+##ls
+- working directory:/home
+- It printed the files inside lecture1 directory
+- No error
+
+##cat
+- working directory:/home
+- The output is: cat: lecture1: Is a directory. It printed the file and its purpose.
+- No error
+
