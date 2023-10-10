@@ -17,7 +17,7 @@
 - No error
 
 ## Directory as an argument (lecture1)
-![Image](chrome_9QwfKmkukh.png)
+![Image](chrome_ar7NEvvyqU.png)
 ## cd
 - working directory:/home
 - The command changed my working directory to lecture1.
