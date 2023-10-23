@@ -9,9 +9,13 @@ image 1:
 - split(): to split the url so that we can get the message (s, first)
 - equals(): to check if it has "s".
 
+
+
 - relevant arguments: we only need the url as an argument, as it contains all the information we need.
 - relevant fields: num: used to number the messages, only 1 in this case.
 - list: a string that is incremented with every new string.
+
+  
 
 - nums changes from 0 to 1
 - list changes from "" to "\n 1. first"
@@ -27,9 +31,13 @@ the methods that were called(inside handleRequest):
 - split(): to split the url so that we can get the message (s, second)
 - equals(): to check if it has "s".
 
+  
+
 - relevant arguments: we only need the url as an argument, as it contains all the information we need.
 - relevant fields: num: used to number the messages
 - list: a string that is incremented with every new string.
+
+  
 
 - nums changes from 1 to 2
 - list changes from "\n 1. first" to "\n 1. first \n 2. second"
