@@ -38,9 +38,11 @@ the methods that were called(inside handleRequest):
 
 ## Part 2:
 keys:
+
 ![Image](keys.png)
 
 interaction without the password:
+
 ![Image](login.png)
 
 ## Part 3:
